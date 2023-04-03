@@ -5,7 +5,7 @@ import StorySection from "./feed/StorySection";
 
 const Feed = () => {
   return (
-    <section className="w-[35.5%]">
+    <section className="w-[35.6%]">
       <StorySection />
       <PostSection />
       <FeedPost />
